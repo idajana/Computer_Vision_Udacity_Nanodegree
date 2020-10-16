@@ -8,3 +8,4 @@ The Computer Vision Nanodegree is broken into three parts:
 3. Object Tracking and Localization - object motion and tracking, optical flow and feature matching, SLAM.
 # Nanodegree Certificate
 
+![cert](udacity_nanodegree.png)
